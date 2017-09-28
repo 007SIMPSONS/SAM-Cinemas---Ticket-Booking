@@ -1,9 +1,7 @@
 # SAM-Cinemas---Ticket-Booking
 A simple movie ticket booking system made in JAVA SE
 
-========================
 BUILD OUTPUT DESCRIPTION
-========================
 
 When you build an Java application project that has a main class, the IDE
 automatically copies all of the JAR
